@@ -1,5 +1,8 @@
 Changelog:
 
+- **18 July 2020** - Improved support for multiple Chord diagrams within the same notebook or page.
+
+
 - **14 July 2020** - `ChordPRO` can now be enabled by entering your [license key](https://store.shahinrostami.com/product/chord-pro/).
 
 
